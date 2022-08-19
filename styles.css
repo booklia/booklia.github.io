@@ -49,6 +49,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;   
     transform: scale(1.1);
+    filter: drop-shadow(20px 20px 30px hsla(278, 68%, 11%, 0.1));
 }
 .card-front {
     background-image: url(images/bg-card-front.png);
